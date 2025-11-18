@@ -7,11 +7,11 @@
 ## 🚀 Projects & Research
 - **2024.07–08** [투게더(Together)](https://plato.pusan.ac.kr/course/view.php?id=157301) – 부산대학교 공지 통합 시스템  
   Selenium + BeautifulSoup 크롤러 제작, GPT 기반 공지 분류 알고리즘 개발.  
-  크롤링–분류–알림까지 자동화된 시스템 구축 → 현재 2,396명 학생 사용 중  
+  크롤링–분류–알림까지 자동화된 시스템 구축 → 현재 2,421명 학생 사용 중  
 
 - **2024.09–11** [Withinstar.com](https://www.withinstar.com/) – 인스타그램 기반 익명 매칭 서비스  
   HTML/CSS/JS 기반 웹 서비스 구축·배포, Google Analytics 연동.  
-  사업자 등록 완료, 누적 264명 실사용, 월간 방문 1.2k  
+  대한민국 및 캘리포니아 사업자 승인, 누적 264명 실사용, 월간 방문 1.2k  
 
 - **2025.01** [부산 자율운항보트 경진대회](https://www.youtube.com/watch?v=V6OAN6Mg4Mg&feature=youtu.be)  
   ROS2 기반 Python 파이프라인 단독 개발. LiDAR, GPS, IMU, 카메라 데이터를 실시간 통합해  
