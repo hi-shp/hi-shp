@@ -24,12 +24,15 @@
   Rhino로 선체 설계, 2D LiDAR 시뮬레이션 알고리즘 개발.  
   팀장으로 8주간 프로젝트 리드 → 최종 25팀 중 2위  
 
-- **2025.07–** [KABOAT 전국 자율운항보트 경진대회](https://github.com/hi-shp/KABOAT2025)    
+- **2025.07–11** [KABOAT 전국 자율운항보트 경진대회](https://github.com/hi-shp/KABOAT2025)    
   2025 부산대학교 조선해양공학과 날샘 KABOAT 팀 리더.  
   ROS2 기반 자율운항 알고리즘(장애물 판단, PID 제어, 객체 인식, 시뮬레이션) 개발  
 
-- **2025.09–** [선박 운동 모델링 및 최적화](https://github.com/hi-shp/Data_science) (학부연구생)    
-  선체·추진 스펙과 해상 조건 파라미터를 입력받아, 최적화된 장애물 회피 경로 알고리즘을 도출하는 시스템 구현  
+- **2025.09–11** [선박 운동 모델링 및 최적화](https://github.com/hi-shp/Data_science) (학부연구생)    
+  선체·추진 스펙과 해상 조건 파라미터를 입력받아, 최적화된 장애물 회피 경로 알고리즘을 도출하는 시스템 구현
+
+- **2026.01** [스마트선박 페스티벌](https://github.com/hi-shp/kabot2026)    
+   ROS2 기반 USV(Unmanned Surface Vehicle) 통합 제어 시스템 구축 및 실전 임무 수행 → 최종 2위 달성
 
 ---
 
