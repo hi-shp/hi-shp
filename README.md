@@ -17,10 +17,10 @@
   ROS2 기반 Python 파이프라인 단독 개발. LiDAR, GPS, IMU, 카메라 데이터를 실시간 통합해  
   쓰러스터 제어 알고리즘 구현 → 동일 코드로 두 팀이 각각 최종 1위·3위 달성  
 
-- **2025.03–05** [공학입문설계](https://drive.google.com/file/d/1lMNq0ojrZjLGZE8c-yYQ_nx3Pn9weLcW/view) – 흔들림 보정 의자  
+- **2025.03–05** [공학입문설계](https://drive.google.com/file/d/10CEnR6pYQzOonEx9aHJ0cDH8o6rn1BDA/view) – 흔들림 보정 의자  
   6자유도 자이로 센서 + Arduino 로봇팔을 활용해 자동 흔들림 보정 기능 구현  
 
-- **2025.04–07** [학습플러스 코칭동아리](https://drive.google.com/file/d/13-izUgHyzO1VLqUdmp-X03bd4qZDrObC/view)  
+- **2025.04–07** [학습플러스 코칭동아리](https://drive.google.com/file/d/1Z3xmDsNLaOUo43MBICKdIz9htWLwmbgy/view)  
   Rhino로 선체 설계, 2D LiDAR 시뮬레이션 알고리즘 개발.  
   팀장으로 8주간 프로젝트 리드 → 최종 25팀 중 2위  
 
