@@ -15,7 +15,11 @@
 
 - **2025.01** [부산광역시 자율운항보트 경진대회](https://www.youtube.com/watch?v=V6OAN6Mg4Mg&feature=youtu.be)  
   ROS2 기반 Python 파이프라인 단독 개발. LiDAR, GPS, IMU, 카메라 데이터를 실시간 통합해  
-  쓰러스터 제어 알고리즘 구현 → 동일 코드로 두 팀이 각각 최종 1위·3위 달성  
+  쓰러스터 제어 알고리즘 구현 → 동일 코드로 두 팀이 각각 최종 1위·3위 달성
+
+- **2025.02** [플라토 자동 로그인](https://github.com/hi-shp/plato_auto_login)  
+  부산대학교 플라토 & 학생지원시스템 & 공유대학 자동 로그인 프로그램 제작  
+  크롬 웹스토어 배포 → 현재 96명 학생 사용 중 [(바로가기)](https://chromewebstore.google.com/detail/plato-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8/alfanhjkmennhlhicpinigkgkifknamm) 
 
 - **2025.03–05** [공학입문설계](https://drive.google.com/file/d/10CEnR6pYQzOonEx9aHJ0cDH8o6rn1BDA/view) – 흔들림 보정 의자  
   6자유도 자이로 센서 + Arduino 로봇팔을 활용해 자동 흔들림 보정 기능 구현  
