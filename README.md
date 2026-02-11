@@ -50,7 +50,6 @@
 - 2025 BEE Maker Study Group 기술창업 팀장
 - 제 4기 한국해양공학회 학생기자단 단원
 - 멘사 코리아 Developer SIG 시그원
-- PNU NAOE 운동조종실험실(MASELA) 학부연구생
 
 ---
 
