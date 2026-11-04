@@ -17,15 +17,15 @@
   부산대학교 플라토 & 학생지원시스템 & 공유대학 자동 로그인 프로그램 제작  
   크롬 웹스토어 배포 → 현재 122명 학생 사용 중 [(바로가기)](https://chromewebstore.google.com/detail/plato-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8/alfanhjkmennhlhicpinigkgkifknamm) 
 
-- **2025.08–09** [KABOAT](https://github.com/hi-shp/KABOAT2025)    
+- **2025.08–09** [KABOAT2025](https://github.com/hi-shp/KABOAT2025)    
   2025 부산대학교 조선해양공학과 날샘 전국자율운항보트대회 팀 리더  
   ROS2 기반 자율운항 알고리즘(장애물 판단, PID 제어, 객체 인식, 시뮬레이션) 개발  
 
-- **2025.10–12** [자율운항보트 시뮬레이션](https://github.com/hi-shp/Data_science)    
+- **2025.10–12** [DATA SCIENCE](https://github.com/hi-shp/Data_science)    
   DBSCAN과 베지어 곡선, 순수추종 알고리즘을 이용한 자율운항 시뮬레이션  
   최적화된 장애물 회피 경로 알고리즘 도출을 위한 강화학습 환경 구현
 
-- **2026.01-02** [ROS2 USV](https://github.com/hi-shp/kabot2026)    
+- **2026.01-02** [KABOAT2026](https://github.com/hi-shp/kabot2026)    
    ROS2 기반 USV(Unmanned Surface Vehicle) 통합 제어 시스템 및 임무 수행 알고리즘
 
 - **2026.05-07** [eVTOL 착륙 시뮬레이션](https://github.com/hi-shp/eVTOL-landing)    
